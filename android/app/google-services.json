@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295705240752",
+    "project_id": "mobx-reminders-3e3fd",
+    "storage_bucket": "mobx-reminders-3e3fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295705240752:android:d5ffd167d5dbbc6a074775",
+        "android_client_info": {
+          "package_name": "com.example.mobx_tut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295705240752-d74a0d4ak54ar0rtnpvu16nqr7jr3l5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3VQVlyJuJnWo0PwRWeesbrQ5UFBPXas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295705240752-d74a0d4ak54ar0rtnpvu16nqr7jr3l5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
